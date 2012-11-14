@@ -1,0 +1,6 @@
+{
+  "name": "events-stream",
+  "description": "A simple amd shim for node style events.EventEmitter and stream.Stream in the browser",
+  "version": "0.0.1",
+  "main": "events-stream.js"
+}
